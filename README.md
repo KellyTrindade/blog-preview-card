@@ -12,9 +12,9 @@ Usuários podem:
 
 ### Screenshots
 
-![Normal](./screenshot.png)
+![](./screenshot.png)
 
-![Mouse hover](./screenshot-hover.png)
+![](./screenshot-hover.png)
 
 
 ## Meu Processo
@@ -30,3 +30,7 @@ Usuários podem:
 Mais uma vez, agora com esse segundo desafio, aplicar mais um pouco dos meus conhecimentos com React, uma tecnologia que eu pretendo priorizar muito em meus estudos.
 
 E pra deixar o card um pouco mais "interativo", a data carregada na visualização sempre será o dia atual, formatado a partir de uma função que criei para esse componente.
+
+### Deploy
+[Blog Preview Card](https://ktrindade-blog-preview-card.netlify.app/)
+
